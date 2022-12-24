@@ -1,7 +1,5 @@
 ### Hi there 👋 I am a seeker, believer and a lifelong learner! I Have worked on Web UI(Java + Selenium ), Mobile Automation using Appium, WebDriver IO , Spring boot framework using Selenium and Java .
 
-<!--
-**dwivediswapnil/dwivediswapnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: s21dwivedi@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can sing wrong lyrics with utmost confidence.
--->
+
