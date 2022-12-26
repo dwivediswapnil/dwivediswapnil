@@ -1,4 +1,4 @@
-### Hi there 👋 I am a seeker, believer and a lifelong learner! I Have worked on Web UI(Java + Selenium ) , Mobile Test Automation using Appium, WebDriver IO , Spring boot framework using Selenium and Java .
+### Hi there 👋 I am a seeker, believer and a lifelong learner! I have worked on Web UI(Java + Selenium ) , Mobile Test Automation using Appium, WebDriver IO , Spring boot framework using Selenium and Java .
 
 
 Here are some ideas to get you started:
