@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Advertising domain(Spring boot framework using Selenium and Java).
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript,Python.
 - 💬 Ask me if you feel i can help you with your questions.
 - 📫 How to reach me: s21dwivedi@gmail.com
 - 😄 Pronouns: He/Him
